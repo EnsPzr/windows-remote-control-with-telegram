@@ -44,3 +44,5 @@ Temporary Items
 
 *.db
 *.exe
+/resimler
+botToken.txt
